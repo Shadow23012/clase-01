@@ -1,0 +1,29 @@
+.header{
+    background-color: aquamarine;
+    margin: 5%;
+    text-align: center;
+    padding: 5%;
+    font-size:xx-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.footer{
+    color: white;
+    background-color: blue;
+    font-size: larger;
+    text-align: center;
+    font-style:italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+padding-top: 1%;
+padding-bottom: 1%;
+}
+
+.contenido{
+    color: white;
+    padding: 5%;
+    background-color: rgb(56, 4, 105);
+}
+
+body{
+    background-color: rgb(182, 143, 219);
+}
