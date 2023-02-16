@@ -1,8 +1,12 @@
+.menu{
+    background-color:cyan;
+    color: white;
+}
+
 .header{
     background-color: aquamarine;
-    margin: 5%;
     text-align: center;
-    padding: 5%;
+    padding: 1%;
     font-size:xx-large;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
@@ -26,4 +30,8 @@ padding-bottom: 1%;
 
 body{
     background-color: rgb(182, 143, 219);
+}
+
+menu{
+    background-color: bisque;
 }
